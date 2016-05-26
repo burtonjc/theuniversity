@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: burtonjc/theuniversity
+  repo: git@github.com:burtonjc/theuniversity.git
   branch: gh-pages
